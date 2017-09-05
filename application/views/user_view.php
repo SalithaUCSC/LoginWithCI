@@ -7,8 +7,6 @@
     <title>Home | TechPool</title>
     <link href="<?php echo base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo base_url() ?>assets/css/custom.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Oswald:400,500" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Oswald:400,500|Lato" rel="stylesheet">
 </head>
 <body>
     <nav class="navbar navbar-inverse navbar-static-top">
