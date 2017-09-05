@@ -1,0 +1,15 @@
+body {
+    background-color: #DFDEDE;
+}
+nav {
+    font-family: 'Oswald', sans-serif;
+}
+.navbar-brand {
+    font-size: 40px !important;
+}
+nav li {
+    font-size: 16px;
+}
+.container {
+    font-family: 'Lato', sans-serif;
+}
